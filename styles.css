@@ -1,1 +1,27 @@
 /*  your css code here. If applicable */
+h1{
+	text-align:center;
+}
+#title,#author,#isbn{
+	display:block;
+	width:100%;
+}
+#submit{
+	background-color:#0D6EFD;
+	border:none;
+	border-radius:3px;
+	color:white;
+}
+ table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+
+
+
+
